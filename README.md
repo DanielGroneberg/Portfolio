@@ -8,7 +8,7 @@
 
 ## Projects
 ### Timeseries Forecast for Federal Reserve Interest Rates
-[Repository](https://github.com/DanielGroneberg/DSI-Project-5)
+--[Repository](https://github.com/DanielGroneberg/DSI-Project-5)
 
 Developed a timeseries forecast for key economic metrics including Federal Reserve interest rates using **Python**. Scraped 50 years of Federal Reserve Beige Book transcripts using **BeautifulSoup** and applied natural language processing to engineer sentiment feature from text data.
 
