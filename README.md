@@ -4,8 +4,8 @@
 
 ## Education
 ### Data Science Immersive | General Assembly (_September 2023_)**
-**Group Project**
--Test
+**Group Project**</br>
+-Test</br>
 -Test
 
  **B.S., Geology | Western Washington University (_December 2021_)**
