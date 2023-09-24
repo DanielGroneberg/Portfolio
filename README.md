@@ -10,9 +10,9 @@
 ### Timeseries Forecast for Federal Reserve Interest Rates
 --[Repository](https://github.com/DanielGroneberg/DSI-Project-5)
 
-Developed a timeseries forecast for key economic metrics including Federal Reserve interest rates using **Python**. Scraped 50 years of Federal Reserve Beige Book transcripts using **BeautifulSoup** and applied natural language processing to engineer sentiment feature from text data.
+Developed a timeseries forecast for key economic metrics including Federal Reserve interest rates using **Python**. Scraped 50 years of [Federal Reserve Beige Book transcripts](https://www.minneapolisfed.org/beige-book-reports/2023/2023-05-su) using **BeautifulSoup** and applied natural language processing to engineer sentiment feature from text data.
 
-![EEG Band Discovery](/assets/img/beige_book.png)
+![Beige Book](/assets/img/beige_book.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
