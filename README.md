@@ -1,3 +1,6 @@
+[LinkedIn Profile]({{ site.custom_links.linkedin }})
+[Resume]({{ site.custom_links.resume }})
+
 # Data Scientist
 
 #### Technical Skills: Python, SQL, GIS
