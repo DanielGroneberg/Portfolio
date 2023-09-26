@@ -22,7 +22,7 @@ Used **Python** to forecast soil moisture in the United States using 64 years of
 Developed a timeseries forecast for key economic metrics including Federal Reserve interest rates using **Python**. Scraped 50 years of [Federal Reserve Beige Book transcripts](https://www.minneapolisfed.org/region-and-community/regional-economic-indicators/beige-book-archive) using **BeautifulSoup** and applied natural language processing to engineer sentiment feature from text data. Used a Vector Autoregression model to forecast interest rates.
 
 ### [Predicting Subreddit from Sample Post](https://github.com/DanielGroneberg/project-3)
-![Economic Metrics](/portfolio_assets/img/sentiment_distribution_subs.png)
+![Economic Metrics](/portfolio_assets/img/sentiment_distribution_by_sub.png)
 
 
 
