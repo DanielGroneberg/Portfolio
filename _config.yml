@@ -1,5 +1,7 @@
 title: Daniel Groneberg
-#logo: /assets/img/headshot_circle.png
-description: Data Scientist With Background in Earth Science
+logo: danicon2.jpg
+description: Data Scientist With a Background in Earth Science
 show_downloads: true
 theme: jekyll-theme-minimal
+source: ./
+assets_dir: portfolio_assets/img/
