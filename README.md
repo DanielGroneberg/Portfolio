@@ -12,7 +12,7 @@
 
 Developed a timeseries forecast for key economic metrics including Federal Reserve interest rates using **Python**. Scraped 50 years of [Federal Reserve Beige Book transcripts](https://www.minneapolisfed.org/region-and-community/regional-economic-indicators/beige-book-archive) using **BeautifulSoup** and applied natural language processing to engineer sentiment feature from text data. Used a Vector Autoregression model to forecast interest rates.
 
-![Beige Book](/assets/img/beige_book.png)
+![Beige Book](/portfolio_assets/img/Sarima_overall.png)
 
 ### Timeseries Forecast of Soil Moisture
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
