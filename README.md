@@ -23,7 +23,7 @@ Developed a timeseries forecast for key economic metrics including Federal Reser
 **Bike Delivery Driver at Jimmy Johns (_January 2023 - June 2023_)**
 -	Assisted customers in understanding the menu, received orders over the phone and face-to-face.
 -	Consistently exceeded 30-minute delivery time goals.
--	Developed and rode efficient delivery routes tailored for each batch of o¬¬¬¬rders while under time pressure.
+-	Developed and rode efficient delivery routes tailored for each batch of orders while under time pressure.
 -	Updated routes in real time if new construction or traffic conditions encountered.
 -	Communicated with coworkers to make routes as efficient as possible.
 
