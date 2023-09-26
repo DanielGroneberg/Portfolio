@@ -6,12 +6,8 @@
 - Data Science Immersive | General Assembly (_September 2023_)</br>								       		
 - B.S., Physics	| Western Washington University (_December 2021_)
 </br>
-</br>
 
 ## Projects
-</br>
-</br>
-
 ### [Timeseries Forecast of Soil Moisture](https://github.com/DanielGroneberg/Climate_Group_Project)
 ![SARIMA Model](/portfolio_assets/img/Sarima_overall.png)
 *Underfit SARIMA model trained with incorrect stationarity assumption, later replaced with better-performing model.*
@@ -27,7 +23,6 @@ Developed a timeseries forecast for key economic metrics including Federal Reser
 
 ### [Predicting Subreddit from Sample Post](https://github.com/DanielGroneberg/project-3)
 ![Economic Metrics](/portfolio_assets/img/sentiment_distribution_by_sub.png)
-</br>
 </br>
 
 ## Work Experience
