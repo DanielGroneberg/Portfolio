@@ -2,6 +2,7 @@
 
 #### Technical Skills: Python, SQL, GIS
 
+
 ## Education
 - Data Science Immersive | General Assembly (_September 2023_)							       		
 - B.S., Physics	| Western Washington University (_December 2021_)
@@ -23,7 +24,7 @@ Developed a timeseries forecast for key economic metrics including Federal Reser
 
 ### [Predicting Subreddit from Sample Post](https://github.com/DanielGroneberg/project-3)
 ![Economic Metrics](/portfolio_assets/img/sentiment_distribution_by_sub.png)
-</br>
+
 
 ## Work Experience
 **Bike Delivery Driver at Jimmy Johns (_January 2023 - June 2023_)**
