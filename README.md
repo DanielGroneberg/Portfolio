@@ -18,7 +18,7 @@ Developed a timeseries forecast for key economic metrics including Federal Reser
 
 Used **Python** to forecast soil moisture in the United States using 64 years of climate data. Observed distinct shift from stationary soil moisture to decreasing moisture over time around year 2010. This shift took place close to original 80/20 train/test split resulting in an assesment of data as stationary overall which did not hold for test set and subsequent overestimation of soil moisture in the test set. SARIMA and Holt-Winters models both performed poorly with a best R2 score of .42. Applying Holt-Winters additive seasonality model did not see an improvment in performance. Forecasting using only section of data with downward trend (after 2010) resulted in much improved best R2 score of .76
 
-[Project Repository](/assets/img/Sarima_overall.png](https://github.com/DanielGroneberg/Climate_Group_Project)
+**[Project Repository](https://github.com/DanielGroneberg/Climate_Group_Project)**
 
 
 ## Work Experience
