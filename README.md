@@ -1,9 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL
+#### Technical Skills: Python, SQL, GIS
 
 ## Education
-- Data Science Immersive | General Assembly (_September 2023_)</br>								       		
+- Data Science Immersive | General Assembly (_September 2023_)							       		
 - B.S., Physics	| Western Washington University (_December 2021_)
 </br>
 
