@@ -25,10 +25,21 @@ Developed a timeseries forecast for key economic metrics including Federal Reser
 
 
 ## Work Experience
+**Bike Delivery Driver at Jimmy Johns (_January 2023 - June 2023_)**
+-	Assisted customers in understanding the menu, received orders over the phone and face-to-face.
+-	Consistently exceeded 30-minute delivery time goals.
+-	Developed and rode efficient delivery routes tailored for each batch of o¬¬¬¬rders while under time pressure.
+-	Updated routes in real time if new construction or traffic conditions encountered.
+-	Communicated with coworkers to make routes as efficient as possible.
+
+**Stagehand with IATSE Local 15 (_September 2022 - June 2023_)**
+- Built video walls, installed lighting fixtures, and followed instructions from a variety of teams.
+-	Worked efficiently in teams in order to meet road crew deadline requirements.
+
 **Geotechnical Field Technician at Earth Solutions, NW (_July 2022 - September 2022_)**
-•	Oversaw trench backfill and provided immediate recommendations to meet 95% soil compaction targets.
-•	Collected data and drafted daily technical reports outlining findings.
-•	Communicated with technical and non-technical audiences including project geologist and site foreman.
+- Oversaw trench backfill and provided immediate recommendations to meet 95% soil compaction targets.
+-	Collected data and drafted daily technical reports outlining findings.
+-	Communicated with technical and non-technical audiences including project geologist and site foreman.
 
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
