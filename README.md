@@ -19,11 +19,6 @@ Used **Python** to forecast soil moisture in the United States using 64 years of
 
 Developed a timeseries forecast for key economic metrics including Federal Reserve interest rates using **Python**. Scraped 50 years of [Federal Reserve Beige Book transcripts](https://www.minneapolisfed.org/region-and-community/regional-economic-indicators/beige-book-archive) using **BeautifulSoup** and applied natural language processing to engineer sentiment feature from text data. Used a Vector Autoregression model to forecast interest rates.
 
-
-
-
-
-
 ## Work Experience
 **Bike Delivery Driver at Jimmy Johns (_January 2023 - June 2023_)**
 -	Assisted customers in understanding the menu, received orders over the phone and face-to-face.
@@ -40,11 +35,3 @@ Developed a timeseries forecast for key economic metrics including Federal Reser
 - Oversaw trench backfill and provided immediate recommendations to meet 95% soil compaction targets.
 -	Collected data and drafted daily technical reports outlining findings.
 -	Communicated with technical and non-technical audiences including project geologist and site foreman.
-
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
-
-![Bike Study](/assets/img/bike_study.jpeg)
