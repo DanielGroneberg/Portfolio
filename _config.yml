@@ -3,5 +3,5 @@ title: Daniel Groneberg
 description: Data Scientist With Background in Earth Science
 show_downloads: true
 theme: jekyll-theme-minimal
-source: ./
+source: /portfolio_assets/img
 destination: ./_site
