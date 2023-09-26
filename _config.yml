@@ -4,8 +4,4 @@ description: Data Scientist With a Background in Earth Science
 show_downloads: true
 theme: jekyll-theme-minimal
 source: ./
-assets_dir: /portfolio_assets/img/
-#custom_links:
- # linkedin: https://www.linkedin.com/
-  #resume: nitrome.com
-
+assets_dir: portfolio_assets/img/
