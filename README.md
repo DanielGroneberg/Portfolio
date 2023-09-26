@@ -10,7 +10,7 @@
 ### Timeseries Forecast of Federal Reserve Interest Rates
 --[Repository](https://github.com/DanielGroneberg/DSI-Project-5)
 
-Developed a timeseries forecast for key economic metrics including Federal Reserve interest rates using **Python**. Scraped 50 years of [Federal Reserve Beige Book transcripts](https://www.minneapolisfed.org/beige-book-reports/2023/2023-05-su) using **BeautifulSoup** and applied natural language processing to engineer sentiment feature from text data.
+Developed a timeseries forecast for key economic metrics including Federal Reserve interest rates using **Python**. Scraped 50 years of [Federal Reserve Beige Book transcripts](https://www.minneapolisfed.org/region-and-community/regional-economic-indicators/beige-book-archive) using **BeautifulSoup** and applied natural language processing to engineer sentiment feature from text data.
 
 ![Beige Book](/assets/img/beige_book.png)
 
