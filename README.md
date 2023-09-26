@@ -7,17 +7,20 @@
 - B.S., Physics	| Western Washington University (_December 2021_)
 
 ## Projects
-### Timeseries Forecast for Federal Reserve Interest Rates
---[Repository](https://github.com/DanielGroneberg/DSI-Project-5)
+### Timeseries Forecast of Federal Reserve Interest Rates
+[Repository](https://github.com/DanielGroneberg/DSI-Project-5)
 
-Developed a timeseries forecast for key economic metrics including Federal Reserve interest rates using **Python**. Scraped 50 years of Federal Reserve Beige Book transcripts using **BeautifulSoup** and applied natural language processing to engineer sentiment feature from text data.
+Developed a timeseries forecast for key economic metrics including Federal Reserve interest rates using **Python**. Scraped 50 years of [Federal Reserve Beige Book transcripts](https://www.minneapolisfed.org/region-and-community/regional-economic-indicators/beige-book-archive) using **BeautifulSoup** and applied natural language processing to engineer sentiment feature from text data. Used a Vector Autoregression model to forecast interest rates.
 
-![EEG Band Discovery](/assets/img/beige_book.png)
+![Beige Book](/assets/img/beige_book.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Timeseries Forecast of Soil Moisture
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.        		
+Used **Python** to forecast soil moisture in the United States using 64 years of climate data. Observed distinct shift from stationary soil moisture to decreasing moisture over time around year 2010. This shift took place close to original 80/20 train/test split resulting in an assesment of data as stationary overall which did not hold for test set and subsequent overestimation of soil moisture in the test set. SARIMA and Holt-Winters models both performed poorly with a best R2 score of .42. Applying Holt-Winters additive seasonality model did not see an improvment in performance. Forecasting using only section of data with downward trend (after 2010) resulted in much improved best R2 score of .76
+
+![Bike Study](/assets/img/Sarima_overall.png)
+
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
