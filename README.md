@@ -1,14 +1,6 @@
 # Data Scientist
 
-## Technical Skills
-
-**Technologies:** Jupyter • GitHub • Git Bash • PostgreSQL • SQLite • Google Colab • EC2 • S3 • AWS BigQuerry • Tableau • RESTful APIs • R • RStudio • Tidyverse • CLI • ESRI ArcGIS • QGIS • wget • curl
-
-**Skills:** Data Cleaning • Predictive Modeling • Supervised and Unsupervised Learning • Data Management Data Visualization • NLP • Image Classification • Data Collection 
-
-**Python Libraries:** Numpy • Pandas • Matplotlib • Seaborn • Sklearn • TensorFlow • Keras • Flask statsmodels • NLTK • spaCy • Streamlit • pmdarima • sktime • netCDF4 • BeautifulSoup • pathlib • Cartopy
-
-
+### Technical Skills: Python, SQL, GIS
 
 ## Education
 - Data Science Immersive | General Assembly (_September 2023_)							       		
