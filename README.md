@@ -22,7 +22,7 @@ Developed a timeseries forecast for key economic metrics including Federal Reser
 ### [Predicting Subreddit from Sample Post](https://github.com/DanielGroneberg/project-3)
 ![Economic Metrics](/portfolio_assets/img/sentiment_distribution_by_sub.png)
 
-
+-----------
 ## Work Experience
 **Bike Delivery Driver at Jimmy Johns (_January 2023 - June 2023_)**
 -	Assisted customers in understanding the menu, received orders over the phone and face-to-face.
