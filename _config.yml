@@ -1,6 +1,12 @@
 title: Daniel Groneberg
 logo: /portfolio_assets/img/danicon3.png
+author:
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
 description: Data Scientist With a Background in Earth Science
 theme: jekyll-theme-minimal
 source: ./
+
 #assets_dir: portfolio_assets/img/
