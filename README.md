@@ -1,12 +1,10 @@
 # Data Scientist
-
-### Technical Skills: Python, SQL, GIS
-
+#### Technical Skills: Python, SQL, GIS
+------------
 ## Education
 - Data Science Immersive | General Assembly (_September 2023_)							       		
 - B.S., Geology	| Western Washington University (_December 2021_)
-
-  
+--------
 ## Projects
 ### [Timeseries Forecast of Soil Moisture](https://github.com/DanielGroneberg/Climate_Group_Project)
 ![SARIMA Model](/portfolio_assets/img/Sarima_overall.png)
