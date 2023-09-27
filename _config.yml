@@ -1,7 +1,7 @@
 title: Daniel Groneberg
 logo: /portfolio_assets/img/danicon3.png
 description: Data Scientist With a Background in Earth Science
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
 source: ./
 #assets_dir: portfolio_assets/img/
